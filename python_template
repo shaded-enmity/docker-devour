@@ -1,0 +1,7 @@
+DockerAPIRequest.new(desc=$REQUEST_DESCRIPTION, type=$REQUEST_TYPE, 
+			url=$REQUEST_URL, url_sub=$REQUEST_SUB, 
+			get_params=[$REQUEST_GET_PARAMETERS],
+			filters=[$REQUEST_FILTERS], 
+			json=[$REQUEST_JSON_PARAMETERS], 
+			status=[$REQUEST_STATUS_CODES], 
+			headers=[$REQUEST_HEADER_PARAMETERS]), 

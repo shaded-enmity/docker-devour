@@ -1,0 +1,21 @@
+{
+	request_description: $REQUEST_DESCRIPTION,
+	request_type: $REQUEST_TYPE,
+	request_url: $REQUEST_URL,
+	request_url_substitution: $REQUEST_SUB,
+	get_params: [
+	  $REQUEST_GET_PARAMETERS
+	],
+	filters: [
+	  $REQUEST_FILTERS
+	],
+	json_params: [
+	  $REQUEST_JSON_PARAMETERS
+	],
+	status_codes: [
+	  $REQUEST_STATUS_CODES
+	],
+	header_params: [
+	  $REQUEST_HEADER_PARAMETERS
+	]
+},
